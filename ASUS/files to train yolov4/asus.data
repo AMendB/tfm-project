@@ -1,0 +1,5 @@
+classes = 2
+train  = asus/asus_train.txt
+valid  = asus/asus_valid.txt
+names = asus/asus.names
+backup = asus/backup/
